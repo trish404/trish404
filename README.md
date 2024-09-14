@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @trish404
-- 👀 I’m interested in front end development.
 - 🌱 I’m currently learning data analytics.
 
 
