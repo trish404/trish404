@@ -2,7 +2,7 @@
   <img src="./robo.gif" width="900"/>
 </p>
 
-<h1 align="center">Hey there! 👾 I'm Trisha</h1>
+<h1 align="center">Hey there! 🩷 I'm Trisha</h1>
 
 <p align="center">
   Exploring the intersections of <strong>code</strong> and <strong>creativity</strong>,  
