@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./robo.gif" width="600"/>
+  <img src="./robo.gif" width="800"/>
 </p>
 
 <h1 align="center">Hey there! 👾 I'm Trisha</h1>
