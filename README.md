@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./robo.gif" width="800"/>
+  <img src="./robo.gif" width="900"/>
 </p>
 
 <h1 align="center">Hey there! 👾 I'm Trisha</h1>
@@ -16,22 +16,21 @@
 - 🧠 ML + AI enthusiast  
 - 🖌️ Visual storyteller, blending design & logic  
 - 💻 Building things that are smart, useful, and beautiful  
-- 🛠 Currently tinkering with: generative art, zkp, and CV
+- 🛠 Currently tinkering with: ZKP and CV
 
 ---
 
 ### 💡 Current Projects
 
-- 🎨 AI-generated installations  
 - 🤖 Smart parking allocation system  
 - 🔐 zk-SNARK-based escrow  
-- 🧠 Fake news detection in Malayalam
+- 🧠 MI Detection using CV
 
 ---
 
 ### 🛸 Let’s Connect
 
-- 💌 [LinkedIn](https://www.linkedin.com/)  
+- 💌 [LinkedIn](https://www.linkedin.com/in/trisha-vijayekkumaran-36569b157/)  
 - 🧪 [My Portfolio](https://yourwebsite.com)  
 - 🌐 [trish404.github.io](https://trish404.github.io)
 
